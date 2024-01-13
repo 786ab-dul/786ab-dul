@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @786ab-dul
 - 👀 I’m interested in CODING
 - 🌱 I’m currently learning ENGINEERING
-- 💞️ I’m looking to collaborate on CODING
+- 💞️ I’m looking to collaborate on CODING.
 - 📫 How to reach me through MAIL
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
